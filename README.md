@@ -1,8 +1,9 @@
 # Electric Vehicle Market Index and Predictions
 
-![image](https://github.com/Chuka-J-Uzo/eMobility_Analysis_Global-EV/assets/95084188/13b903cb-6bbd-4082-b8a0-00a0518ba13d)
+### Project Description: Electric Vehicle Market Index and Predictions
 
-## Project Description: Electric Vehicle Market Index and Predictions
+![image](https://github.com/Chuka-J-Uzo/eMobility_Analysis_Global-EV/assets/95084188/d21c0f6f-dbdb-4e1a-ac24-25468bbad9e0)
+
 
 This project provides an analysis of the global electric vehicle market by developing an index to evaluate the performance of different countries based on various factors. It also includes a predictive model to estimate the levels of new registrations of electric cars for the next three years.
 
