@@ -13,7 +13,10 @@ The project incorporates a dataset that includes historical data on electric veh
 
 The original dataset can be found here: https://www.zsw-bw.de/en/media-center/data-service.html
 
-Below are exploratory data analysis on the dataset performed before the predictions were made on the data set.
+Below are exploratory data analysis on the dataset performed before the predictions were made on the data set:
+
 ![image](https://github.com/Chuka-J-Uzo/eMobility_Analysis_Global-EV/assets/95084188/acfb671c-c132-4883-8015-0c017266e4bf)
+
+<br>
 
 ![image](https://github.com/Chuka-J-Uzo/eMobility_Analysis_Global-EV/assets/95084188/9d1fc4c8-73e2-421f-b4d8-899de2a73528)
